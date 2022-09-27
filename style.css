@@ -1,0 +1,23 @@
+.container{
+    text-align: center;
+    /* background-color: saddlebrown; */
+    padding: 1rem;
+    height: 619px;
+    border-radius: 3rem;
+     background-image:url("https://i.pinimg.com/564x/d3/45/11/d3451114ab4e1d55ead624930bcff60c.jpg");}
+
+table{
+    margin: auto;
+}
+input{
+    font-size: 26px;
+    height: 47px;
+}
+
+button{
+    font-size: 30px;
+    width: 72px;
+    border-radius: 2rem;
+
+    
+}
