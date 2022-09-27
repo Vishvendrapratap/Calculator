@@ -4,7 +4,7 @@
     padding: 1rem;
     height: 619px;
     border-radius: 3rem;
-     background-image:url("https://i.pinimg.com/564x/d3/45/11/d3451114ab4e1d55ead624930bcff60c.jpg");}
+     background-image:url("https://cdn.pixabay.com/photo/2016/04/02/00/10/abstract-1301930_960_720.png");}
 
 table{
     margin: auto;
@@ -20,4 +20,11 @@ button{
     border-radius: 2rem;
 
     
+}
+footer{
+    background-color: #e63232;
+    text-align-last: right;
+    border-radius: 11px;
+    font-size: xx-large;
+    background-image:url("https://cdn.pixabay.com/photo/2015/08/28/11/27/space-911785_960_720.jpg");
 }
