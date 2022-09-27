@@ -33,7 +33,8 @@ document.body.innerHTML=` <div class="container">
     <button class="button">=</button>
      </div>
 
-</div>`;
+</div>
+<footer>Calculator by:Vishvendra</footer>`;
 
 let string= "";
 let buttons= document.querySelectorAll('.button');
